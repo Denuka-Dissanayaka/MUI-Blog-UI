@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/MUI-Blog-UI/static/js/main.78b5fbef.js",
+    "static/media/tshirt.jpg": "/MUI-Blog-UI/static/media/tshirt.ea33ab7903033d07dc89.jpg",
+    "static/media/image2.jpg": "/MUI-Blog-UI/static/media/image2.fe7ee1601540dd16765f.jpg",
+    "static/media/shoes.jpg": "/MUI-Blog-UI/static/media/shoes.f12be2d3bc92bdd833e6.jpg",
+    "static/media/women.jpg": "/MUI-Blog-UI/static/media/women.6b4863c811097b076a4e.jpg",
+    "static/media/men.jpg": "/MUI-Blog-UI/static/media/men.7396b7af17c5d0222570.jpg",
+    "static/media/image3.jpg": "/MUI-Blog-UI/static/media/image3.f28a113eb99755916a1d.jpg",
+    "static/media/cardImage1.jpg": "/MUI-Blog-UI/static/media/cardImage1.5cca1cf87aa2df98112f.jpg",
+    "static/media/image4.jpg": "/MUI-Blog-UI/static/media/image4.dec214d53e0ff133362a.jpg",
+    "static/media/heroimage.jpg": "/MUI-Blog-UI/static/media/heroimage.8c5e442e6d53554c5cc3.jpg",
+    "static/media/bags.jpg": "/MUI-Blog-UI/static/media/bags.d8d703edbd6bf3c39304.jpg",
+    "static/media/watch.jpg": "/MUI-Blog-UI/static/media/watch.329cd7c22eb9f8b33a37.jpg",
+    "static/media/image1.jpg": "/MUI-Blog-UI/static/media/image1.9a3476db738934cc5d81.jpg",
+    "static/media/kids.jpg": "/MUI-Blog-UI/static/media/kids.856141f77667d4d11646.jpg",
+    "static/media/kidsfashions.jpg": "/MUI-Blog-UI/static/media/kidsfashions.95779b525666504e06c7.jpg",
+    "index.html": "/MUI-Blog-UI/index.html",
+    "main.78b5fbef.js.map": "/MUI-Blog-UI/static/js/main.78b5fbef.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.78b5fbef.js"
+  ]
+}
